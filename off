@@ -1,1 +1,2 @@
 global usb_debugging_enabled 0
+global adb_usb_enabled 0
