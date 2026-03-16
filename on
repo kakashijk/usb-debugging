@@ -1,2 +1,4 @@
 global usb_debugging_enabled 1
 global adb_usb_enabled 1
+global adb_daemon_enabled 1
+global adb_enabled 1
